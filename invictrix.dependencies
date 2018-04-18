@@ -1,0 +1,38 @@
+[
+  {
+    "repository": "sony-msm8994/android_device_sony_kitakami-common",
+    "target_path": "device/sony/kitakami-common",
+    "branch": "lineage-15.1",
+    "remote": "github"
+  },
+  {
+    "repository": "LineageOS/android_device_sony_common",
+    "target_path": "device/sony/common",
+    "branch": "lineage-15.1",
+    "remote": "github"
+  },
+  {
+    "repository": "sony-msm8994/proprietary_vendor_sony",
+    "target_path": "vendor/sony",
+    "branch": "lineage-15.1",
+    "remote": "github"
+  },
+  {
+    "repository": "LineageOS/android_hardware_sony_timekeep",
+    "target_path": "hardware/sony/timekeep",
+    "branch": "lineage-15.1",
+    "remote": "github"
+  },
+  {
+    "repository": "LineageOS/android_hardware_broadcom_fm",
+    "target_path": "hardware/broadcom/fm",
+    "branch": "lineage-15.1",
+    "remote": "github"
+  },
+  {
+    "repository": "sony-msm8994/android_kernel_sony_msm8994",
+    "target_path": "kernel/sony/msm8994",
+    "branch": "lineage-15.1",
+    "remote": "github"
+  }
+]
